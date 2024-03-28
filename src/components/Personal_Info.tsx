@@ -134,7 +134,7 @@ const Personal_Info = () => {
     <>
     <div className='bg-slate-50 h-[100%] lg:h-[auto] lg:m-20 lg:flex lg:w-[auto] 
      lg:mx-10 lg:p-5'>
-        <img src={sidebar_desktop} className='w-[300px] lg:h-[90vh] lg:flex hidden ' />
+        <img src={sidebar_desktop} className='w-[300px] lg:h-[100%] lg:flex hidden ' />
         <img src={sidebar_mobile} className='w-[100%] lg:hidden flex' />
         
 
